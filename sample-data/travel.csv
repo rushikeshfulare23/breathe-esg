@@ -1,0 +1,4 @@
+employee,from_airport,to_airport,type,date
+John,BOM,DEL,Flight,2026-01-10
+Alice,DEL,BLR,Flight,2026-01-12
+Rahul,BLR,HYD,Flight,2026-01-15

@@ -1,0 +1,4 @@
+material_code,plant,fuel_type,quantity,unit,date
+DSL001,PL01,Diesel,500,L,2026-01-01
+DSL002,PL02,Petrol,300,Gallons,2026-01-03
+DSL003,PL03,Diesel,700,L,2026-01-05
